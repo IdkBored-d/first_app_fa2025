@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'centered.dart';
 import 'dice_roller.dart';
 
 // ignore: must_be_immutable
